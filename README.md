@@ -64,34 +64,6 @@ cypress/
 
 ---
 
-## ⚙️ Como executar
-
-### Pré-requisitos
-- Node.js v18+
-- npm v9+
-
-### Instalação
-
-```bash
-git clone https://github.com/graeff01/qa-automation---Portal-de-Investimento.git
-cd qa-automation---Portal-de-Investimento
-npm install
-```
-
-### Abrindo a interface visual
-
-```bash
-npx cypress open
-```
-
-### Executando todos os testes via terminal
-
-```bash
-npx cypress run
-```
-
----
-
 ## 💡 Sobre o projeto
 
 O **Portal de Investimento** é uma plataforma imobiliária desenvolvida por mim e que está em produção com clientes reais. Decidi usar meu próprio sistema como alvo dos testes automatizados porque:
